@@ -1,0 +1,18 @@
+# Core dependencies for AI Search Algorithms
+
+# For graph visualization (Assignment 2)
+networkx>=2.6.3
+matplotlib>=3.5.0
+
+# Standard library modules (included with Python)
+# - collections (deque for BFS)
+# - heapq (priority queue for Best-First Search)
+# - time (performance measurement)
+# - random (obstacle generation)
+
+# Optional: For better visualization
+numpy>=1.21.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For unit testing
+# black>=22.0.0  # For code formatting
